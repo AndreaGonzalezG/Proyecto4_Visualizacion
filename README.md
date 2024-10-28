@@ -59,4 +59,6 @@ Para preguntas o sugerencias, contacta con nuestro equipo:
 
 ```bash
 Rocket Solution - Equipo de Análisis de Datos
-📧 Email: tu-email@dominio.com XXXXXXXXXXXXXXX
+📧 Email: anaboyero@gmail.com
+📧 Email: mariaandreagg@gmail.com
+📧 Email: maria.elvira8@gmail.com
