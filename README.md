@@ -1,6 +1,8 @@
 # 🚀 Proyecto de Visualización en Tableau para DataTech Solutions 📊
 
-**Empresa encargada**: Rocket Solution
+**Empresa encargada**: Rocket Solution 
+<img src="https://github.com/user-attachments/assets/e5d6b783-7970-46c2-8dd0-998d10114080" alt="Logo" width="50"/>
+
 
 ## 📝 Descripción del Proyecto
 Este proyecto ha sido desarrollado por Rocket Solution para DataTech Solutions, una empresa de comercio electrónico que busca optimizar sus decisiones basadas en datos. Nos enfocamos en analizar tres áreas clave: **ventas**, **productos** y **clientes**. 
@@ -25,9 +27,27 @@ El objetivo es crear un **dashboard interactivo** en Tableau que permita visuali
 
 ## 📊 Resultados y Conclusión
 
-Tras realizar el análisis, observamos que no existen diferencias significativas en los datos de ventas y productos. Esto dificulta extraer conclusiones contundentes en cuanto a preferencias destacadas de clientes o productos de alto rendimiento. El gráfico a continuación ilustra esta falta de variabilidad:
+A continuación, se presentan algunas de las conclusiones a las que se han llegado para cada una de las categorias analizadas. 
+ ### **Clientes**
+ - El mercado con mayor participación es el español, que representa casi la mitad de la base total de clientes. Sin embargo, en 2023 se observó un incremento en el valor de ventas totales en el mercado francés, lo que sugiere que podría ser un mercado con alto potencial de crecimiento en los próximos años.
 
-![Gráfica de análisis](ruta/a/tu/imagen.png) XXXXXXXXXXX
+ <img width="900" alt="Screenshot 2024-10-28 at 10 29 51" src="https://github.com/user-attachments/assets/9ee49840-96a5-444f-8a07-0988574e6db1">
+
+- Al analizar las ventas totales por categoría, se destaca que la de mayor rendimiento es Clothing, seguida por Sport & Outdoors. En contraste, la categoría de Home & Kitchen muestra los niveles más bajos de ganancias.
+  
+<img width="900" alt="Screenshot 2024-10-28 at 10 30 04" src="https://github.com/user-attachments/assets/b4944b76-06c9-4cc2-823a-5b299480a121">
+
+ ### **Ventas**
+
+ - Se observa que el trimestre con mayor cantidad de ventas es el primero, mientras que el cuarto trimestre es el que menos ventas tienen. 
+<img width="900" alt="1" src="https://github.com/user-attachments/assets/ae6aa55b-1098-4c7e-b9e7-28280f01a8b6">
+
+### **Productos**
+
+- Recuento de los productos por categoria, resaltando la categoria de Clothing con mayor cantidad de productos. 
+<img width="900" alt="Screenshot 2024-10-28 at 11 00 39" src="https://github.com/user-attachments/assets/737d4c45-cc33-4cf9-af8d-c39e76e08bf2">
+
+
 
 ## 🛠️ Tecnologías Utilizadas
 - **Python** (Pandas) para limpieza y transformación de datos.
